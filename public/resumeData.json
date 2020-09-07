@@ -1,0 +1,153 @@
+{
+  "main": {
+    "name": "Vivek Malhan",
+    "occupation": "Web Developer && Radio Jockey",
+    "description": "Full Stack Developer by Day, Pentester and Coffee Coder by night",
+    "image": "me.jpeg",
+    "bio": "My name is Vivek, I'm a Full Stack Developer. Currently I'm working at College community known as 'Great developers' developing, maintaining and testing everything online ",
+    "contactmessage": "Get in touch with me to receive further details",
+    "email": "amalhan43@gmail.com",
+    "phone": "+91 7888834025",
+    "address": {
+      "street": "64 Phase 3 Aman Park",
+      "city": "Ludhiana",
+      "state": "Punjab",
+      "zip": "141001"
+    },
+    "website": "github.com/VivekMalhan666",
+    "resumedownload": "https://drive.google.com/file/d/12wjYxPAPepdusdGUJ-KAjucQU7zx3NoI/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/vivek.malhan.5/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/vivek-malhan-156984195/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/rjvivekmalhan/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/VivekMalhan666",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "GNDEC, Ludhiana",
+        "degree": "Bachelors in Technology of Computer Science and Engineering",
+        "graduated": "June 2021",
+        "description": "Currently On-Roll"
+      }
+    ],
+    "work": [
+      {
+        "company": "Great Developers",
+        "title": "Team Member && React Specialist",
+        "years": "June 2019 - Present",
+        "description": "Development, Maintainance and TEsting Softwares for implementing in College."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "Php",
+        "level": "70%"
+      },
+      {
+        "name": "Linux",
+        "level": "80%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "55%"
+      },
+      {
+        "name": "Python",
+        "level": "60%"
+      },
+      {
+        "name": "Java",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Ristorante Confusion",
+        "category": "A website for a restraunt built with ReactJS",
+        "image": "Ristrorante conFusion.png",
+        "url": "https://github.com/VivekMalhan666/Restorante-con-fusion"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://github.com/VivekMalhan666/Netfilx-Clone"
+      },
+      {
+        "title": "Covid-19 Tracker",
+        "category": "Covid-19 Tracker built with ReactJS",
+        "image": "covid-19 tracker.png",
+        "url": "https://github.com/VivekMalhan666/covid-19-tracker"
+      },
+      {
+        "title": " JavaScript Games",
+        "category": "Some of the arcade games built using vanilla JS",
+        "image": "Memory Game.png",
+        "url": "https://github.com/VivekMalhan666/JavaScriptGames"
+      },
+      {
+        "title": "Github",
+        "category": "There's alot more to see",
+        "image": "github.png",
+        "url": "https://github.com/VivekMalhan666/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "To be honest I and Vivek have been working in GD for quite a while now, No matter what the situation this guy never gives up, always is wager to find a solution no matter what.",
+        "user": "Suhel Mehta"
+      },
+      {
+        "text": "Quick and keen learner, Helpful and informative.",
+        "user": "Suraj Dadral"
+      },
+      {
+        "text": "Always lends a helping hand, Eager to learn and is a quick learn with diverse knowledge.",
+        "user": "Arshdeep Sigh"
+      }
+    ]
+  }
+}
