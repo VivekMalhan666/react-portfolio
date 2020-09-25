@@ -148,7 +148,7 @@ header .scrolldown a:hover { color: #11ABB0; }
 ul#nav {
    min-height: 48px;
    width: auto;
-
+   padding: 1.5rem;
    /* center align the menu */
    text-align: center;
 }
@@ -433,6 +433,7 @@ ul#nav li.current a { color: #F06000; }
 #portfolio-wrapper {
    display: flex;
    flex-wrap: wrap;
+   justify-content: center;
 }
 
 /* Portfolio Content */
@@ -499,6 +500,8 @@ ul#nav li.current a { color: #F06000; }
 }
 .portfolio-item .item-wrap img {
    vertical-align: bottom;
+   height: 127px;
+   width: 252px;
 }
 .portfolio-item .portfolio-item-meta { padding: 18px }
 .portfolio-item .portfolio-item-meta h5 {
