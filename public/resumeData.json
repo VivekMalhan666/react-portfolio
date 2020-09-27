@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Vivek Malhan",
-    "occupation": "Web Developer && Radio Jockey",
+    "occupation": "Web Developer && Radio Jockey.",
     "description": "Full Stack Developer by Day, Pentester and Coffee Coder by night",
     "image": "me.jpeg",
     "bio": "My name is Vivek, I'm a Full Stack Developer. Currently I'm working at College community known as 'Great developers' developing, maintaining and testing everything online ",
@@ -40,7 +40,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Here are some of my notable skills along with their level.",
     "education": [
       {
         "school": "GNDEC, Ludhiana",
@@ -54,7 +54,7 @@
         "company": "Great Developers",
         "title": "Team Member && React Specialist",
         "years": "June 2019 - Present",
-        "description": "Development, Maintainance and TEsting Softwares for implementing in College."
+        "description": "Development, Maintainance and Testing Softwares for implementing in College."
       }
     ],
     "skills": [
@@ -109,15 +109,27 @@
         "url": "https://github.com/VivekMalhan666/Restorante-con-fusion"
       },
       {
+        "title": "Spotify Clone",
+        "category": "Spotify Clone built with ReactJS",
+        "image": "Spotify.png",
+        "url": "https://github.com/VivekMalhan666/Spotify-Clone"
+      },
+      {
+        "title": "Slack Clone",
+        "category": "A website chat channel built with ReactJS",
+        "image": "Slack.png",
+        "url": "https://github.com/VivekMalhan666/Web-chat-channel"
+      },
+      {
         "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
+        "category": "Netflix Clone built with ReactJS",
         "image": "netflix-clone.jpeg",
-        "url": "https://github.com/VivekMalhan666/Netfilx-Clone"
+        "url": "https://github.com/VivekMalhan666/Netflix-Clone"
       },
       {
         "title": "Covid-19 Tracker",
         "category": "Covid-19 Tracker built with ReactJS",
-        "image": "covid-19 tracker.png",
+        "image": "covid-19-tracker.png",
         "url": "https://github.com/VivekMalhan666/covid-19-tracker"
       },
       {
@@ -137,7 +149,7 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "To be honest I and Vivek have been working in GD for quite a while now, No matter what the situation this guy never gives up, always is wager to find a solution no matter what.",
+        "text": "To be honest I and Vivek have been working in GD for quite a while now, No matter what the situation this guy never gives up, always is eager to find a solution no matter what.",
         "user": "Suhel Mehta"
       },
       {
