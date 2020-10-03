@@ -135,6 +135,7 @@ header .scrolldown a:hover { color: #11ABB0; }
    text-transform: uppercase;
    letter-spacing: 2.5px;
    margin: 0 auto;
+   padding: 1.5rem;
    z-index: 100;
    position: fixed;
    left: 0;
@@ -432,6 +433,7 @@ ul#nav li.current a { color: #F06000; }
 
 #portfolio-wrapper {
    display: flex;
+   justify-content: center;
    flex-wrap: wrap;
 }
 
@@ -499,6 +501,8 @@ ul#nav li.current a { color: #F06000; }
 }
 .portfolio-item .item-wrap img {
    vertical-align: bottom;
+   height: 120px;
+   width: 300px;
 }
 .portfolio-item .portfolio-item-meta { padding: 18px }
 .portfolio-item .portfolio-item-meta h5 {
