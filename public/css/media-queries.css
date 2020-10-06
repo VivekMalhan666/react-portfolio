@@ -186,7 +186,8 @@
   ul#nav li a {
     display: block;
     margin: 0;
-    padding: 0;
+    padding: 20px;
+    font-size: 18px;
     margin: 12px 0;
     line-height: 16px; /* reset line-height from 48px */
     border: none;

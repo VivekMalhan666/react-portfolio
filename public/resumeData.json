@@ -2,18 +2,12 @@
   "main": {
     "name": "Vivek Malhan",
     "occupation": "Web Developer && Radio Jockey.",
-    "description": "Full Stack Developer by Day, Pentester and Coffee Coder by night",
+    "description": "Full Stack Developer by Day, Pentester,Coffee Coder and RJ by night",
     "image": "me.jpeg",
-    "bio": "My name is Vivek, I'm a Full Stack Developer. Currently I'm working at College community known as 'Great developers' developing, maintaining and testing everything online ",
+    "bio": "My name is Vivek, I'm a Full Stack Developer. Currently I'm working at College community known as 'Great developers' developing, maintaining and testing everything that works on the college server. Hey don't just presume me as another computer geek. I am also a part time RJ at a regional radio station ",
     "contactmessage": "Get in touch with me to receive further details",
     "email": "amalhan43@gmail.com",
     "phone": "+91 7888834025",
-    "address": {
-      "street": "64 Phase 3 Aman Park",
-      "city": "Ludhiana",
-      "state": "Punjab",
-      "zip": "141001"
-    },
     "website": "github.com/VivekMalhan666",
     "resumedownload": "https://drive.google.com/file/d/12wjYxPAPepdusdGUJ-KAjucQU7zx3NoI/view?usp=sharing",
     "social": [
@@ -45,8 +39,8 @@
       {
         "school": "GNDEC, Ludhiana",
         "degree": "Bachelors in Technology of Computer Science and Engineering",
-        "graduated": "June 2021",
-        "description": "Currently On-Roll"
+        "graduated": "July 2017 - June 2021",
+        "description": "Currently in the last semester of my B.Tech degree"
       }
     ],
     "work": [
@@ -59,54 +53,35 @@
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "70%"
+        "name": "MERN Stack"
       },
       {
-        "name": "CSS",
-        "level": "95%"
+        "name": "CSS"
       },
       {
-        "name": "Git",
-        "level": "80%"
+        "name": "Git"
       },
       {
-        "name": "HTML5",
-        "level": "90%"
+        "name": "HTML5"
       },
       {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "Php"
       },
       {
-        "name": "Php",
-        "level": "70%"
+        "name": "Python"
       },
       {
-        "name": "Linux",
-        "level": "80%"
-      },
-      {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
-      },
-      {
-        "name": "Python",
-        "level": "60%"
-      },
-      {
-        "name": "Java",
-        "level": "60%"
+        "name": "Java"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Ristorante Confusion",
-        "category": "A website for a restraunt built with ReactJS",
-        "image": "Ristrorante conFusion.png",
-        "url": "https://github.com/VivekMalhan666/Restorante-con-fusion"
+        "title": "Covid-19 Tracker",
+        "category": "Covid-19 Tracker built with ReactJS",
+        "image": "covid-19-tracker.png",
+        "url": "https://github.com/VivekMalhan666/covid-19-tracker"
       },
       {
         "title": "Spotify Clone",
@@ -127,16 +102,16 @@
         "url": "https://github.com/VivekMalhan666/Netflix-Clone"
       },
       {
-        "title": "Covid-19 Tracker",
-        "category": "Covid-19 Tracker built with ReactJS",
-        "image": "covid-19-tracker.png",
-        "url": "https://github.com/VivekMalhan666/covid-19-tracker"
-      },
-      {
         "title": " JavaScript Games",
         "category": "Some of the arcade games built using vanilla JS",
         "image": "Memory Game.png",
         "url": "https://github.com/VivekMalhan666/JavaScriptGames"
+      },
+      {
+        "title": "Ristorante Confusion",
+        "category": "A website for a restraunt built with ReactJS",
+        "image": "Ristrorante conFusion.png",
+        "url": "https://github.com/VivekMalhan666/Restorante-con-fusion"
       },
       {
         "title": "Github",
@@ -150,15 +125,15 @@
     "testimonials": [
       {
         "text": "To be honest I and Vivek have been working in GD for quite a while now, No matter what the situation this guy never gives up, always is eager to find a solution no matter what.",
-        "user": "Suhel Mehta"
+        "user": "Suhel Mehta   {Junior Dev, Great Developers}"
       },
       {
         "text": "Quick and keen learner, Helpful and informative.",
-        "user": "Suraj Dadral"
+        "user": "Suraj Dadral   {Senior Dev, Great Developers}"
       },
       {
         "text": "Always lends a helping hand, Eager to learn and is a quick learn with diverse knowledge.",
-        "user": "Arshdeep Sigh"
+        "user": "Arshdeep Singh   {Student, GNDEC}"
       }
     ]
   }
