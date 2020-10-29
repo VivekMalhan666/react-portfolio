@@ -331,11 +331,36 @@ ul#nav li.current a {
 .bars {
   float: left;
   padding: 0;
-  text-align: left;
+  width: 100%;
 }
 .bars .skills {
   margin-top: 20px;
   list-style: none;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.bars .skill__container {
+  display: flex;
+  width: 50%;
+  justify-content: space-around;
+  align-items: center;
+  align-self: start;
+  padding: 10px;
+}
+.bars .skill__name {
+  font: 18px "opensans-bold", sans-serif;
+  color: #313131;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: normal;
+  position: relative;
+}
+.bars .skill__image {
+  object-fit: contain;
+  height: 150px;
+  width: 100%;
 }
 /* .bars li {
   position: relative;
@@ -344,14 +369,6 @@ ul#nav li.current a {
   height: 42px;
   border-radius: 3px;
 } */
-.bars li em {
-  font: 18px "opensans-bold", sans-serif;
-  color: #313131;
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  font-weight: normal;
-  position: relative;
-}
 /* .bar-expand {
   position: absolute;
   left: 0;
@@ -461,6 +478,8 @@ ul#nav li.current a {
   background: #ebeeee;
   padding-top: 90px;
   padding-bottom: 60px;
+  padding-left: 0;
+  padding-right: 0;
 }
 #portfolio h1 {
   font: 15px/24px "opensans-semibold", sans-serif;
@@ -480,7 +499,7 @@ ul#nav li.current a {
 /* Portfolio Content */
 #portfolio-wrapper .columns {
   margin-bottom: 40px;
-  height: 400px;
+  height: 150px;
   width: 400px;
 }
 .portfolio-item .item-wrap {
@@ -545,9 +564,9 @@ ul#nav li.current a {
 }
 .portfolio-item .item-wrap img {
   vertical-align: bottom;
-  height: 120px;
-  width: 800px;
-  object-fit: cover;
+  height: 150px;
+  width: 100%;
+  object-fit: contain;
 }
 .portfolio-item .portfolio-item-meta {
   padding: 18px;

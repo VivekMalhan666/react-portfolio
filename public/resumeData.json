@@ -9,7 +9,7 @@
     "email": "amalhan43@gmail.com",
     "phone": "+91 7888834025",
     "website": "github.com/VivekMalhan666",
-    "resumedownload": "https://drive.google.com/file/d/12wjYxPAPepdusdGUJ-KAjucQU7zx3NoI/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1UhE5p5e_Qoeo2Nn1yk1rwFyu5Tjez22Z/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -34,7 +34,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here are some of my notable skills along with their level.",
+    "skillmessage": "Here are some of my notable skills I have experience with.",
     "education": [
       {
         "school": "GNDEC, Ludhiana",
@@ -45,33 +45,48 @@
     ],
     "work": [
       {
+        "company": "Edulyx - E Learning",
+        "title": "Development Intern​ Executive & React Specialist",
+        "years": "October 2020 - Present",
+        "description": "Development, Maintainance and Testing a Platform for E-Learning."
+      },
+      {
         "company": "Great Developers",
-        "title": "Team Member && React Specialist",
+        "title": "Team Member & React Specialist",
         "years": "June 2019 - Present",
         "description": "Development, Maintainance and Testing Softwares for implementing in College."
       }
     ],
     "skills": [
       {
-        "name": "MERN Stack"
+        "name": "MERN Stack",
+        "img": "https://raw.githubusercontent.com/shahzaibkhalid/mern-app-generator/master/static/logo.png"
+      },
+
+      {
+        "name": "Php",
+        "img": "https://wisdmlabs.com/site/wp-content/uploads/2014/01/php-logo-Converted-01.png"
       },
       {
-        "name": "CSS"
+        "name": "Python",
+        "img": "https://www.rogerperkin.co.uk/wp-content/uploads/2016/12/python-transparent-logo.png"
       },
       {
-        "name": "Git"
+        "name": "Java",
+        "img": "https://image.flaticon.com/icons/png/512/226/226777.png"
       },
       {
-        "name": "HTML5"
+        "name": "Git",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"
       },
       {
-        "name": "Php"
+        "name": "HTML5",
+        "img": "https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png"
       },
+
       {
-        "name": "Python"
-      },
-      {
-        "name": "Java"
+        "name": "CSS",
+        "img": "https://i2.wp.com/www.worldeatingdisordersday.org/wp-content/uploads/2016/03/css-logo.png"
       }
     ]
   },
