@@ -83,10 +83,13 @@
         "name": "HTML5",
         "img": "https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png"
       },
-
       {
         "name": "CSS",
         "img": "https://i2.wp.com/www.worldeatingdisordersday.org/wp-content/uploads/2016/03/css-logo.png"
+      },
+      {
+        "name": "Angular",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png"
       }
     ]
   },
@@ -97,6 +100,12 @@
         "category": "Covid-19 Tracker built with ReactJS",
         "image": "covid-19-tracker.png",
         "url": "https://github.com/VivekMalhan666/covid-19-tracker"
+      },
+      {
+        "title": "Edulyx E-learning",
+        "category": "Edulyx E-learning platform built with MERN Stack",
+        "image": "edulyx.png",
+        "url": "https://testlogin.edulyx.com"
       },
       {
         "title": "Spotify Clone",
