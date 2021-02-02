@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Vivek Malhan",
-    "occupation": "Web Developer && Radio Jockey.",
+    "occupation": "Web Developer && Radio Jockey",
     "description": "Full Stack Developer by Day, Pentester,Coffee Coder and RJ by night",
     "image": "me.jpeg",
     "bio": "My name is Vivek, I'm a Full Stack Developer. Currently I'm working at College community known as 'Great developers' developing, maintaining and testing everything that works on the college server. Hey don't just presume me as another computer geek. I am also a part time RJ at a regional radio station ",
@@ -62,7 +62,6 @@
         "name": "MERN Stack",
         "img": "https://raw.githubusercontent.com/shahzaibkhalid/mern-app-generator/master/static/logo.png"
       },
-
       {
         "name": "Php",
         "img": "https://wisdmlabs.com/site/wp-content/uploads/2014/01/php-logo-Converted-01.png"
@@ -108,22 +107,22 @@
         "url": "https://testlogin.edulyx.com"
       },
       {
+        "title": "Netflix Clone",
+        "category": "Netflix Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://github.com/VivekMalhan666/Netflix-Clone"
+      },
+      {
         "title": "Spotify Clone",
         "category": "Spotify Clone built with ReactJS",
         "image": "Spotify.png",
         "url": "https://github.com/VivekMalhan666/Spotify-Clone"
       },
       {
-        "title": "Slack Clone",
-        "category": "A website chat channel built with ReactJS",
-        "image": "Slack.png",
-        "url": "https://github.com/VivekMalhan666/Web-chat-channel"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Netflix Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://github.com/VivekMalhan666/Netflix-Clone"
+        "title": "Space X Launch Schedule",
+        "category": "The SpaceX Launch Program aims to facilitate different launch programs by space x at one go.",
+        "image": "Space-x.png",
+        "url": "https://github.com/VivekMalhan666/Space-X"
       },
       {
         "title": " JavaScript Games",
