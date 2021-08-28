@@ -4,12 +4,12 @@
     "occupation": "Web Developer && Radio Jockey",
     "description": "Full Stack Developer by Day, Pentester,Coffee Coder and RJ by night",
     "image": "me.jpeg",
-    "bio": "My name is Vivek, I'm a Full Stack Developer. Currently I'm working at College community known as 'Great developers' developing, maintaining and testing everything that works on the college server. Hey don't just presume me as another computer geek. I am also a part time RJ at a regional radio station ",
+    "bio": "My name is Vivek, I'm a Full Stack Developer. Currently I'm freelancing while developing, maintaining and testing some of the most fascinating projects. Hey don't just presume me as another computer geek. I am also a part time RJ at a regional radio station ",
     "contactmessage": "Get in touch with me to receive further details",
     "email": "amalhan43@gmail.com",
     "phone": "+91 7888834025",
     "website": "github.com/VivekMalhan666",
-    "resumedownload": "https://drive.google.com/file/d/1UhE5p5e_Qoeo2Nn1yk1rwFyu5Tjez22Z/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/16AUx2bGqtT8cIsjnWX63U7TH6jhJsj6x/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -40,21 +40,27 @@
         "school": "GNDEC, Ludhiana",
         "degree": "Bachelors in Technology of Computer Science and Engineering",
         "graduated": "July 2017 - June 2021",
-        "description": "Currently in the last semester of my B.Tech degree"
+        "description": "I completed my degree in computer science and engineering with development of projects including Online College Portals (Moodle), Hostel Management system(HMS), Locus (Location based services - cross platfrom mobile apllication) and many more"
       }
     ],
     "work": [
       {
+        "company": "Ryazio Technologies LLP",
+        "title": "Development Intern​ Executive & React Specialist",
+        "years": "February 2021 - July 2021",
+        "description": "Developing non discrete projects as an intern. Working on the following  technologies: React js, Express js, Electron js, AWS, Firebase, Nats.io, Stripe, SASS, React toasts, I18next translations Youtube integration, Google maps. Chart js and more."
+      },
+      {
         "company": "Edulyx - E Learning",
         "title": "Development Intern​ Executive & React Specialist",
-        "years": "October 2020 - Present",
-        "description": "Development, Maintainance and Testing a Platform for E-Learning."
+        "years": "October 2020 - January 2021",
+        "description": "Developed a non discrete product as an intern. Working on the following technologies: React js, MongoDB, Express js, Node js, Moment js, Chart js, Mobile Phone authentication, AWS, Firebase, Big Blue Button, Jitsi."
       },
       {
         "company": "Great Developers",
         "title": "Team Member & React Specialist",
         "years": "June 2019 - Present",
-        "description": "Development, Maintainance and Testing Softwares for implementing in College."
+        "description": "Developing open source projects with association of technical society of the college, required by college authorities, mostly web based applications. Working on the following technologies: Php, vanilla js, Apache servers, mysql, drupal, django, Big  Blue Button, jitsi meet, Moodle."
       }
     ],
     "skills": [
@@ -71,8 +77,12 @@
         "img": "https://www.rogerperkin.co.uk/wp-content/uploads/2016/12/python-transparent-logo.png"
       },
       {
-        "name": "Java",
-        "img": "https://image.flaticon.com/icons/png/512/226/226777.png"
+        "name": "React Native",
+        "img": "https://redhouseapps.com/images/tech/logo_reactnative.png"
+      },
+      {
+        "name": "Next Js",
+        "img": "https://www.creative-tim.com/assets/frameworks/icon-nextjs-552cecd0240ba0ae7b5fbf899c1ee10cd66f8c38ea6fe77233fd37ad1cff0dca.png"
       },
       {
         "name": "Git",
@@ -89,6 +99,10 @@
       {
         "name": "Angular",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png"
+      },
+      {
+        "name": "Tailwind css",
+        "img": "https://bourhaouta.gallerycdn.vsassets.io/extensions/bourhaouta/tailwindshades/0.0.5/1592520164095/Microsoft.VisualStudio.Services.Icons.Default"
       }
     ]
   },
@@ -101,10 +115,22 @@
         "url": "https://github.com/VivekMalhan666/covid-19-tracker"
       },
       {
-        "title": "Edulyx E-learning",
-        "category": "Edulyx E-learning platform built with MERN Stack",
-        "image": "edulyx.png",
-        "url": "https://testlogin.edulyx.com"
+        "title": "Airbnb Clone",
+        "category": "This is an Airbnb web application built using next.js",
+        "image": "airbnb.png",
+        "url": "https://github.com/VivekMalhan666/Airbnb"
+      },
+      {
+        "title": "Signal Clone",
+        "category": "A chat portal built using React Native",
+        "image": "Signal.jpg",
+        "url": "https://github.com/VivekMalhan666/signal"
+      },
+      {
+        "title": "Uber Clone",
+        "category": "This is the uber Clone bootstrapped with react native",
+        "image": "uber.png",
+        "url": "https://github.com/VivekMalhan666/signal"
       },
       {
         "title": "Netflix Clone",
@@ -147,7 +173,7 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "To be honest I and Vivek have been working in GD for quite a while now, No matter what the situation this guy never gives up, always is eager to find a solution no matter what.",
+        "text": "To be honest I and Vivek have been working in GD for quite a while now, Always is eager to find a solution no matter what.",
         "user": "Suhel Mehta   {Junior Dev, Great Developers}"
       },
       {
