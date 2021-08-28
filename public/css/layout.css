@@ -180,7 +180,6 @@ ul#nav li {
 /* Links */
 ul#nav li a {
   /* 8px padding top + 8px padding bottom + 32px line-height = 48px */
-
   display: inline-block;
   padding: 8px 13px;
   line-height: 32px;
@@ -189,11 +188,15 @@ ul#nav li a {
   color: #fff;
   font-size: 16px;
 
-  -webkit-transition: color 0.2s ease-in-out;
-  -moz-transition: color 0.2s ease-in-out;
-  -o-transition: color 0.2s ease-in-out;
-  -ms-transition: color 0.2s ease-in-out;
-  transition: color 0.2s ease-in-out;
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+  -ms-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+
+ul#nav li a:hover{
+  transform: scale(1.05);
 }
 
 ul#nav li a:active {
@@ -251,10 +254,12 @@ ul#nav li.current a {
 #about .download .button {
   margin-top: 6px;
   background: #444;
+  box-shadow: 10px 10px 30px #1f1f1f;
 }
 #about .download .button:hover {
   background: #fff;
   color: #2b2b2b;
+  transform: scale(1.05);
 }
 #about .download .button i {
   margin-right: 15px;
@@ -514,6 +519,8 @@ ul#nav li.current a {
   -o-transition: all 0.3s ease-in-out;
   -ms-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
+  box-shadow: 5px 5px 30px #111;
+  border-radius: 10px;
 }
 .portfolio-item .item-wrap a {
   display: block;
@@ -733,7 +740,6 @@ call-to-action .button {
   background: #1f1f1f url(../images/testimonials-bg.jpg) no-repeat center center;
   background-size: cover !important;
   -webkit-background-size: cover !important;
-  background-attachment: fixed;
 
   position: relative;
   min-height: 200px;
@@ -773,6 +779,7 @@ call-to-action .button {
   padding-left: 0;
   position: relative;
   text-shadow: 0px 1px 3px rgba(0, 0, 0, 1);
+  padding: 0 5px;
 }
 #testimonials blockquote:before {
   content: none;
@@ -1009,10 +1016,12 @@ call-to-action .button {
   display: inline-block;
   border-radius: 3px;
   margin-left: 26%;
+  box-shadow: 10px 10px 30px rgb(0, 0, 0);
 }
 #contact button.submit:hover {
   color: #0d0d0d;
   background: #fff;
+  transform: scale(1.05);
 }
 #contact span.required {
   color: #11abb0;

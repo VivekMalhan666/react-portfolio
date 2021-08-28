@@ -1,6 +1,12 @@
-import React from 'react';
+import React, { useEffect } from 'react';
+import Aos from 'aos';
+import 'aos/dist/aos.css';
 
 const Resume = ({ data }) => {
+  useEffect(() => {
+    Aos.init({ duration: 2000 });
+  }, []);
+
   if (data) {
     var skillmessage = data.skillmessage;
     var education = data.education.map(function (education) {
@@ -32,7 +38,7 @@ const Resume = ({ data }) => {
     });
     var skills = data.skills.map(function (skills) {
       return (
-        <div className="skill__container" key={skills.name}>
+        <div data-aos="slide-up" className="skill__container" key={skills.name}>
           <em className="skill__name">{skills.name}</em>
           <img alt={skills.name} className="skill__image" src={skills.img} />
         </div>

@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "aos": "^2.3.4",
     "jquery": "^3.5.1",
     "react": "^16.13.1",
     "react-alice-carousel": "^1.19.3",
