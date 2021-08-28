@@ -2,7 +2,7 @@
 
 This is a ReactJS based personal resume website template
 
-This portfolio is hosted live at 'https://gdy.club/m3'
+This portfolio is hosted live at 'https://vivekmalhan-cb919.web.app/'
 
 ## Make it Your Own!
 
