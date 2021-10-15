@@ -24,6 +24,8 @@
 
 body {
   background: #0f0f0f;
+  overflow-x: hidden;
+  overflow-y: inherit;
 }
 
 /* ------------------------------------------------------------------ */

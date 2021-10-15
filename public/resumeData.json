@@ -45,6 +45,12 @@
     ],
     "work": [
       {
+        "company": "Publicis Sapient ",
+        "title": "Junior Associate Technology",
+        "years": "October 2021 - Present",
+        "description": "Recently joined Publicis Sapient Information Technology & Services. In pursuit of reducing the gap between Now and Next"
+      },
+      {
         "company": "Ryazio Technologies LLP",
         "title": "Development Intern​ Executive & React Specialist",
         "years": "February 2021 - July 2021",
@@ -85,10 +91,6 @@
         "img": "https://www.creative-tim.com/assets/frameworks/icon-nextjs-552cecd0240ba0ae7b5fbf899c1ee10cd66f8c38ea6fe77233fd37ad1cff0dca.png"
       },
       {
-        "name": "Git",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"
-      },
-      {
         "name": "HTML5",
         "img": "https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png"
       },
@@ -99,6 +101,10 @@
       {
         "name": "Angular",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png"
+      },
+      {
+        "name": "Git",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"
       },
       {
         "name": "Tailwind css",
@@ -174,15 +180,15 @@
     "testimonials": [
       {
         "text": "To be honest I and Vivek have been working in GD for quite a while, Always is eager to find a solution no matter what.",
-        "user": "Suhel Mehta   {Junior Dev, Great Developers}"
+        "user": "Suhel Mehta   {Junior Systems Engineer, Infosys}"
       },
       {
         "text": "Quick and keen learner, Helpful and informative.",
-        "user": "Suraj Dadral   {Senior Dev, Great Developers}"
+        "user": "Suraj Dadral   {Senior Dev, Naberro}"
       },
       {
         "text": "Always lends a helping hand, Eager to learn and is a quick learn with diverse knowledge.",
-        "user": "Arshdeep Singh   {Student, GNDEC}"
+        "user": "Arshdeep Singh   {Full Stack Dev, Invent Consultancy Services}"
       }
     ]
   }

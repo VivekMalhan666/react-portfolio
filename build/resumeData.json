@@ -85,10 +85,6 @@
         "img": "https://www.creative-tim.com/assets/frameworks/icon-nextjs-552cecd0240ba0ae7b5fbf899c1ee10cd66f8c38ea6fe77233fd37ad1cff0dca.png"
       },
       {
-        "name": "Git",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"
-      },
-      {
         "name": "HTML5",
         "img": "https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png"
       },
@@ -99,6 +95,10 @@
       {
         "name": "Angular",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png"
+      },
+      {
+        "name": "Git",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"
       },
       {
         "name": "Tailwind css",

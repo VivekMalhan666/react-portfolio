@@ -38,7 +38,7 @@ const Resume = ({ data }) => {
     });
     var skills = data.skills.map(function (skills) {
       return (
-        <div data-aos="slide-up" className="skill__container" key={skills.name}>
+        <div data-aos="fade-up" className="skill__container" key={skills.name}>
           <em className="skill__name">{skills.name}</em>
           <img alt={skills.name} className="skill__image" src={skills.img} />
         </div>
