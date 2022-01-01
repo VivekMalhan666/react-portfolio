@@ -197,7 +197,7 @@ ul#nav li a {
   transition: all 0.2s ease-in-out;
 }
 
-ul#nav li a:hover{
+ul#nav li a:hover {
   transform: scale(1.05);
 }
 
@@ -205,7 +205,7 @@ ul#nav li a:active {
   background-color: transparent !important;
 }
 ul#nav li.current a {
-  color: #f06000;
+  color: #fb8e45;
 }
 
 /* ------------------------------------------------------------------ */
@@ -235,7 +235,7 @@ ul#nav li.current a {
 }
 #about p {
   line-height: 30px;
-  color: #7a7a7a;
+  color: #9c9c9c;
 }
 #about .profile-pic {
   position: relative;
@@ -495,7 +495,7 @@ ul#nav li.current a {
   letter-spacing: 1px;
   text-align: center;
   margin-bottom: 48px;
-  color: #95a3a3;
+  color: #586d6d;
 }
 
 #portfolio-wrapper {
@@ -927,7 +927,7 @@ call-to-action .button {
   background: #191919;
   padding-top: 96px;
   padding-bottom: 102px;
-  color: #636363;
+  color: #bdb8b8;
 }
 #contact .section-head {
   margin-bottom: 42px;

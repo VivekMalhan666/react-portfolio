@@ -1,12 +1,12 @@
-import React, { useEffect, useState } from 'react';
+import React, { lazy, useEffect, useState } from 'react';
 import './App.css';
-import Header from './Components/Header';
-import Footer from './Components/Footer';
-import About from './Components/About';
-import Resume from './Components/Resume';
-import Contact from './Components/Contact';
-import Testimonials from './Components/Testimonials';
-import Portfolio from './Components/Portfolio';
+const Header = lazy(() => import('./Components/Header'));
+const Footer = lazy(() => import('./Components/Footer'));
+const About = lazy(() => import('./Components/About'));
+const Resume = lazy(() => import('./Components/Resume'));
+const Contact = lazy(() => import('./Components/Contact'));
+const Testimonials = lazy(() => import('./Components/Testimonials'));
+const Portfolio = lazy(() => import('./Components/Portfolio'));
 
 const App = () => {
   const [resumeData, setResumeData] = useState({});
@@ -16,7 +16,6 @@ const App = () => {
       .then((res) => res.json())
       .then((data) => {
         setResumeData(data);
-        console.log(data);
       });
   }, []);
 

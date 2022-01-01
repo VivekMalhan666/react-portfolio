@@ -62,7 +62,7 @@ const Header = ({ data }) => {
 
       <div className="row banner">
         <div className="banner-text">
-          <TypeWriter typing={0.5}>
+          <TypeWriter typing={1}>
             <h1>{name ? `I'm ${name}.` : ''}</h1>
           </TypeWriter>
 
