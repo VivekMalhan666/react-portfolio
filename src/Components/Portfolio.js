@@ -8,29 +8,28 @@ const Portfolio = ({ data }) => {
   }, []);
 
   if (data) {
-    var projects = data.projects.map(function (projects) {
-      var projectImage = 'images/portfolio/' + projects.image;
+    var projects = data.projects.map(({ title, image, category, url }) => {
+      var projectImage = 'images/portfolio/' + image;
       return (
-        <div key={projects.title} className="columns portfolio-item">
-          <div data-aos="fade-left" className="item-wrap">
-            <a href={projects.url} title={projects.title}>
-              <img
-                alt={projects.title}
-                src={projectImage}
-                className="sliderimg"
-              />
-              <div className="overlay">
-                <div className="portfolio-item-meta">
-                  <h5>{projects.title}</h5>
-                  <p>{projects.category}</p>
-                </div>
-              </div>
-              <div className="link-icon">
-                <i className="fa fa-link"></i>
-              </div>
+        <section
+          key={title}
+          data-aos="fade-left"
+          className="portfolio-card"
+          style={{
+            backgroundImage: `url(${projectImage})`,
+            backgroundPosition: 'center',
+            backgroundSize: 'cover',
+            backgroundRepeat: 'no-repeat',
+          }}
+        >
+          <section className="portfolio-content">
+            <h2 className="portfolio-title">{title}</h2>
+            <p>{category}</p>
+            <a href={url} className="button">
+              View More
             </a>
-          </div>
-        </div>
+          </section>
+        </section>
       );
     });
   }

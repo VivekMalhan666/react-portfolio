@@ -2,7 +2,7 @@ import React from 'react';
 
 const Footer = ({ data }) => {
   if (data) {
-    var networks = data.social.map(function (network) {
+    var networks = data.social.map((network) => {
       return (
         <li key={network.name}>
           <a href={network.url}>
@@ -17,7 +17,6 @@ const Footer = ({ data }) => {
       <div className="row">
         <div className="twelve columns">
           <ul className="social-links">{networks}</ul>
-
           <ul>
             <li>
               Made with love by Vivek Malhan{' '}

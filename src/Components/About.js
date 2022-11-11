@@ -14,9 +14,14 @@ const About = ({ data }) => {
     <section id="about">
       <div className="row">
         <div className="three columns">
-          <img className="profile-pic" src={profilepic} alt="Vivek Malhan" />
+          <img
+            className="profile-pic"
+            data-aos="fade-right"
+            src={profilepic}
+            alt="Vivek Malhan"
+          />
         </div>
-        <div className="nine columns main-col">
+        <div className="nine columns main-col" data-aos="fade-left">
           <h2>About Me</h2>
 
           <p>{bio}</p>

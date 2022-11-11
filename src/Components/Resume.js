@@ -49,13 +49,13 @@ const Resume = ({ data }) => {
   return (
     <section id="resume">
       <div className="row education">
-        <div className="three columns header-col">
+        <div className="three columns header-col" data-aos="fade-right">
           <h1>
             <span>Education</span>
           </h1>
         </div>
 
-        <div className="nine columns main-col">
+        <div className="nine columns main-col" data-aos="fade-left">
           <div className="row item">
             <div className="twelve columns">{education}</div>
           </div>
@@ -63,13 +63,15 @@ const Resume = ({ data }) => {
       </div>
 
       <div className="row work">
-        <div className="three columns header-col">
+        <div className="three columns header-col" data-aos="fade-right">
           <h1>
             <span>Work</span>
           </h1>
         </div>
 
-        <div className="nine columns main-col">{work}</div>
+        <div className="nine columns main-col" data-aos="fade-left">
+          {work}
+        </div>
       </div>
 
       <div className="row skill">

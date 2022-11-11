@@ -4,17 +4,17 @@
     "occupation": "Web Developer && Radio Jockey",
     "description": "Full Stack Developer by Day, Pentester, Coffee Coder and RJ by night",
     "image": "me.jpeg",
-    "bio": "My name is Vivek, I'm a Full Stack Developer. Currently I'm working with Publicis Sapient while developing, maintaining and testing some of the most fascinating projects. Hey don't just presume me as another computer geek. I am also a part time RJ at a regional radio station ",
+    "bio": "My name is Vivek, I'm a Full Stack Developer. Currently I'm working with Publicis Sapient while developing, maintaining and testing some of the most fascinating projects. Hey don't just presume me as another computer geek. I am also a part time RJ at a regional radio station while also spreading knowledge via youtube",
     "contactmessage": "Get in touch with me to receive further details",
-    "email": "amalhan43@gmail.com",
-    "phone": "+91 7888834025",
+    "email": "+91-9569523240",
+    "phone": "amalhan43@gmail.com",
     "website": "https://github.com/VivekMalhan666",
-    "resumedownload": "https://drive.google.com/file/d/16OxRbxy80g6r4lyd3cdazROnR57t_wDz/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1WNFJTf75ae_uHnCpAVBxSk-Q66YySKfp/view?usp=sharing",
     "social": [
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/vivek.malhan.5/",
-        "className": "fa fa-facebook"
+        "name": "codepen",
+        "url": "https://codepen.io/vivekmalhan666/collections/",
+        "className": "fa fa-codepen"
       },
       {
         "name": "linkedin",
@@ -30,6 +30,11 @@
         "name": "github",
         "url": "http://github.com/VivekMalhan666",
         "className": "fa fa-github"
+      },
+      {
+        "name": "github",
+        "url": "https://www.youtube.com/channel/UC9SzalLbp88s9m11mnyLxNg",
+        "className": "fa fa-youtube"
       }
     ]
   },
@@ -46,9 +51,9 @@
     "work": [
       {
         "company": "Publicis Sapient ",
-        "title": "Junior Associate Technology - Core XT",
+        "title": "Associate Technology L1 - Core XT",
         "years": "October 2021 - Present",
-        "description": "Recently joined Publicis Sapient Information Technology & Services. In pursuit of reducing the gap between Now and Next. I am working as a member of India core XT working as a full cycle developer on latest technologies based on javascript"
+        "description": "Recently joined Publicis Sapient Information Technology & Services. In pursuit of reducing the gap between Now and Next. I am working as a member of India core XT working as a full cycle developer on latest technologies based like Next js, google analytics, React, Angular, Html, css, js, Node.js, J-Query"
       },
       {
         "company": "Ryazio Technologies LLP",
@@ -64,8 +69,8 @@
       },
       {
         "company": "Great Developers",
-        "title": "Team Member & React Specialist",
-        "years": "June 2019 - Present",
+        "title": "Team Member",
+        "years": "June 2019 - January 2021",
         "description": "Developing open source projects with association of technical society of the college, required by college authorities, mostly web based applications. Working on the following technologies: Php, vanilla js, Apache servers, mysql, drupal, django, Big  Blue Button, jitsi meet, Moodle."
       }
     ],
@@ -115,62 +120,62 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Covid-19 Tracker",
-        "category": "Covid-19 Tracker built with ReactJS",
-        "image": "covid-19-tracker.png",
-        "url": "https://github.com/VivekMalhan666/covid-19-tracker"
-      },
-      {
         "title": "Airbnb Clone",
-        "category": "This is an Airbnb web application built using next.js",
+        "category": "This is an Airbnb like web application built using next.js",
         "image": "airbnb.png",
         "url": "https://github.com/VivekMalhan666/Airbnb"
       },
       {
+        "title": "Instagram Clone",
+        "category": "This is an Instagram web application built using next.js",
+        "image": "instagram.png",
+        "url": "https://github.com/VivekMalhan666/Instagram-clone"
+      },
+      {
         "title": "Signal Clone",
-        "category": "A chat portal built using React Native",
+        "category": "This is a chat portal built using React Native that looks like signal",
         "image": "Signal.jpg",
         "url": "https://github.com/VivekMalhan666/signal"
       },
       {
+        "title": "Covid-19 Tracker",
+        "category": "A global tracker that maps spread built of Covid-19 with ReactJS",
+        "image": "covid-19-tracker.png",
+        "url": "https://github.com/VivekMalhan666/covid-19-tracker"
+      },
+      {
         "title": "Uber Clone",
-        "category": "This is the uber Clone bootstrapped with react native",
+        "category": "This is an Uber Clone that is bootstrapped with react native and tailwind css",
         "image": "uber.png",
         "url": "https://github.com/VivekMalhan666/signal"
       },
       {
         "title": "Netflix Clone",
-        "category": "Netflix Clone built with ReactJS",
+        "category": "This is a trailer streaming web app built with ReactJS that looks like Netflix",
         "image": "netflix-clone.jpeg",
         "url": "https://github.com/VivekMalhan666/Netflix-Clone"
       },
       {
         "title": "Spotify Clone",
-        "category": "Spotify Clone built with ReactJS",
+        "category": "This is a song streaming web app built with ReactJS that looks like spotify",
         "image": "Spotify.png",
         "url": "https://github.com/VivekMalhan666/Spotify-Clone"
       },
       {
-        "title": "Space X Launch Schedule",
-        "category": "The SpaceX Launch Program aims to facilitate different launch programs by space x at one go.",
+        "title": "SpaceX Launch",
+        "category": "The SpaceX Launch Program aims to facilitate different launch programs by space x",
         "image": "Space-x.png",
         "url": "https://github.com/VivekMalhan666/Space-X"
       },
       {
         "title": " JavaScript Games",
         "category": "Some of the arcade games built using vanilla JS",
-        "image": "Memory Game.png",
+        "image": "memorygame.png",
         "url": "https://github.com/VivekMalhan666/JavaScriptGames"
       },
       {
-        "title": "Ristorante Confusion",
-        "category": "A website for a restraunt built with ReactJS",
-        "image": "Ristrorante conFusion.png",
-        "url": "https://github.com/VivekMalhan666/Restorante-con-fusion"
-      },
-      {
         "title": "Github",
-        "category": "There's alot more to see",
+        "category": "There are a lot more personal projects on my github",
         "image": "github.png",
         "url": "https://github.com/VivekMalhan666/"
       }
@@ -179,8 +184,8 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "To be honest I and Vivek have been working in GD for quite a while, Always is eager to find a solution no matter what.",
-        "user": "Suhel Mehta   {Junior Systems Engineer, Infosys}"
+        "text": "Famously known as The Night Crawler in the team, you assign him a task in evening by next morning scrum he will come up and say it's done.",
+        "user": "Vishnumoorthi Bhat   {Manager Agile Programming Management, Publicis Sapient}"
       },
       {
         "text": "Quick and keen learner, Helpful and informative.",
