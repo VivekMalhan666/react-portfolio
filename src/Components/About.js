@@ -1,13 +1,10 @@
-import React from 'react';
+import React from "react";
 
 const About = ({ data }) => {
   if (data) {
-    var name = data.name;
-    var profilepic = 'images/' + data.image;
-    var bio = data.bio;
-    var phone = data.phone;
-    var email = data.email;
-    var resumeDownload = data.resumedownload;
+    var profilepic = data.image;
+    var intro = data.intro;
+    var more = data.more;
   }
 
   return (
@@ -21,29 +18,11 @@ const About = ({ data }) => {
             alt="Vivek Malhan"
           />
         </div>
-        <div className="nine columns main-col" data-aos="fade-left">
+        <div className="nine columns main-col " data-aos="fade-left">
           <h2>About Me</h2>
 
-          <p>{bio}</p>
-          <div className="row">
-            <div className="columns contact-details">
-              <h2>Contact Details</h2>
-              <p className="address">
-                <span>{name}</span>
-                <br />
-                <span>{phone}</span>
-                <br />
-                <span>{email}</span>
-              </p>
-            </div>
-            <div className="columns download">
-              <p>
-                <a href={resumeDownload} className="button">
-                  <i className="fa fa-download"></i>Resume
-                </a>
-              </p>
-            </div>
-          </div>
+          <p>{intro}</p>
+          <p>{more}</p>
         </div>
       </div>
     </section>

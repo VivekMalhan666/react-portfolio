@@ -1,6 +1,6 @@
-import React, { useEffect } from 'react';
-import Aos from 'aos';
-import 'aos/dist/aos.css';
+import React, { useEffect } from "react";
+import Aos from "aos";
+import "aos/dist/aos.css";
 
 const Resume = ({ data }) => {
   useEffect(() => {
@@ -36,6 +36,20 @@ const Resume = ({ data }) => {
         </div>
       );
     });
+    var recognitions = data.recognitions.map(function (recognition) {
+      return (
+        <div key={recognition.award}>
+          <h3>{recognition.award}</h3>
+          <p className="info">
+            {recognition.organiser}
+            <br />
+            <span>&bull;</span> <em className="date">{recognition.month}</em>
+          </p>
+          <p className="description">{recognition.summary}</p>
+        </div>
+      );
+    });
+
     var skills = data.skills.map(function (skills) {
       return (
         <div data-aos="fade-up" className="skill__container" key={skills.name}>
@@ -61,7 +75,6 @@ const Resume = ({ data }) => {
           </div>
         </div>
       </div>
-
       <div className="row work">
         <div className="three columns header-col" data-aos="fade-right">
           <h1>
@@ -74,6 +87,17 @@ const Resume = ({ data }) => {
         </div>
       </div>
 
+      <div className="row work">
+        <div className="three columns header-col" data-aos="fade-right">
+          <h1>
+            <span>Recognitions</span>
+          </h1>
+        </div>
+
+        <div className="nine columns main-col" data-aos="fade-left">
+          {recognitions}
+        </div>
+      </div>
       <div className="row skill">
         <div className="three columns header-col">
           <h1>

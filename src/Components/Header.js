@@ -1,10 +1,9 @@
-import React from 'react';
-import TypeWriter from 'react-typewriter';
+import React from "react";
+import TypeWriter from "react-typewriter";
 
 const Header = ({ data }) => {
   if (data) {
     var name = data.name;
-    var occupation = data.occupation;
     var description = data.description;
     var networks = data.social.map(function (network) {
       return (
@@ -63,12 +62,10 @@ const Header = ({ data }) => {
       <div className="row banner">
         <div className="banner-text">
           <TypeWriter typing={1}>
-            <h1>{name ? `I'm ${name}.` : ''}</h1>
+            <h1>{name ? `I'm ${name}.` : ""}</h1>
           </TypeWriter>
 
-          <h3>
-            <span>{occupation}</span>. {description}.
-          </h3>
+          <h3>{description}.</h3>
           <hr />
           <ul className="social">{networks}</ul>
         </div>

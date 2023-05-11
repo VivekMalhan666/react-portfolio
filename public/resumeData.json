@@ -1,15 +1,14 @@
 {
   "main": {
     "name": "Vivek Malhan",
-    "occupation": "Web Developer && Radio Jockey",
-    "description": "Full Stack Developer by Day, Pentester, Coffee Coder and RJ by night",
-    "image": "me.jpeg",
-    "bio": "My name is Vivek, I'm a Full Stack Developer. Currently I'm working with Publicis Sapient while developing, maintaining and testing some of the most fascinating projects. Hey don't just presume me as another computer geek. I am also a part time RJ at a regional radio station while also spreading knowledge via youtube",
+    "description": "The Full Stack Developer, part-time RJ, Blogger, and YouTuber extraordinaire!,",
+    "image": "https://media.licdn.com/dms/image/D4D03AQFiRDB-i5vyiw/profile-displayphoto-shrink_800_800/0/1676437456616?e=1689206400&v=beta&t=Dmm0ufWS6cv1C-NVdL4zD2V8z_KGO8O9ZVwTlkTMeIE",
+    "intro": "Hey there, I'm Vivek - a Full Stack Developer at Publicis Sapient, part-time RJ, and YouTuber. I'm passionate about technology, music, and sharing knowledge with others.",
+    "more": "At Publicis Sapient, I get to work on challenging projects that allow me to think creatively and come up with innovative solutions. On the side, I share my love for music as a part-time RJ at a popular local radio station, and I create tutorials and guides on my YouTube channel and my medium blog to help others improve their programming skills.",
     "contactmessage": "Get in touch with me to receive further details",
     "email": "+91-9569523240",
     "phone": "amalhan43@gmail.com",
     "website": "https://github.com/VivekMalhan666",
-    "resumedownload": "https://drive.google.com/file/d/1WNFJTf75ae_uHnCpAVBxSk-Q66YySKfp/view?usp=sharing",
     "social": [
       {
         "name": "codepen",
@@ -32,9 +31,14 @@
         "className": "fa fa-github"
       },
       {
-        "name": "github",
+        "name": "youtube",
         "url": "https://www.youtube.com/channel/UC9SzalLbp88s9m11mnyLxNg",
         "className": "fa fa-youtube"
+      },
+      {
+        "name": "medium",
+        "url": "https://medium.com/@amalhan43",
+        "className": "fa fa-medium"
       }
     ]
   },
@@ -53,17 +57,17 @@
         "company": "Publicis Sapient ",
         "title": "Associate Technology L1 - Core XT",
         "years": "October 2021 - Present",
-        "description": "Recently joined Publicis Sapient Information Technology & Services. In pursuit of reducing the gap between Now and Next. I am working as a member of India core XT working as a full cycle developer on latest technologies based like Next js, google analytics, React, Angular, Html, css, js, Node.js, J-Query"
+        "description": "Associate Technology L1 Developer in Publicis Sapient, Gurgaon Office with expertise in several key areas of web development, including React, Next, React Native, analytics, Redux, and animations. The team has nicknamed me `Night Crawler` due to my dedication to working long hours and going above and beyond to ensure the success of the projects."
       },
       {
         "company": "Ryazio Technologies LLP",
-        "title": "Development Intern​ Executive & React Specialist",
+        "title": "Development Intern Executive & React Specialist",
         "years": "February 2021 - July 2021",
         "description": "Developing non discrete projects as an intern. Working on the following  technologies: React js, Express js, Electron js, AWS, Firebase, Nats.io, Stripe, SASS, React toasts, I18next translations Youtube integration, Google maps. Chart js and more."
       },
       {
         "company": "Edulyx - E Learning",
-        "title": "Development Intern​ Executive & React Specialist",
+        "title": "Development Intern Executive & React Specialist",
         "years": "October 2020 - January 2021",
         "description": "Developed a non discrete product as an intern. Working on the following technologies: React js, MongoDB, Express js, Node js, Moment js, Chart js, Mobile Phone authentication, AWS, Firebase, Big Blue Button, Jitsi."
       },
@@ -74,9 +78,23 @@
         "description": "Developing open source projects with association of technical society of the college, required by college authorities, mostly web based applications. Working on the following technologies: Php, vanilla js, Apache servers, mysql, drupal, django, Big  Blue Button, jitsi meet, Moodle."
       }
     ],
+    "recognitions": [
+      {
+        "award": "FTM awards",
+        "organiser": "Publicis Sapient - The Children's place",
+        "month": "March 2023",
+        "summary": "PS Core Values of Engaing with Openness was for his engaging approach to openness, which demonstrated my willingness to collaborate with team members and communicate effectively."
+      },
+      {
+        "award": "FTM awards",
+        "organiser": "Publicis Sapient - The Children's place",
+        "month": "July 2022",
+        "summary": "PS Core Values of Learning Mindset was for my growth mindset and my ability to embrace new challenges and continuously learn and improve my skills."
+      }
+    ],
     "skills": [
       {
-        "name": "MERN Stack",
+        "name": "Mern Stack",
         "img": "https://raw.githubusercontent.com/shahzaibkhalid/mern-app-generator/master/static/logo.png"
       },
       {
@@ -88,32 +106,33 @@
         "img": "https://www.creative-tim.com/assets/frameworks/icon-nextjs-552cecd0240ba0ae7b5fbf899c1ee10cd66f8c38ea6fe77233fd37ad1cff0dca.png"
       },
       {
-        "name": "Php",
-        "img": "https://wisdmlabs.com/site/wp-content/uploads/2014/01/php-logo-Converted-01.png"
-      },
-      {
-        "name": "Python",
-        "img": "https://www.rogerperkin.co.uk/wp-content/uploads/2016/12/python-transparent-logo.png"
-      },
-      {
-        "name": "HTML5",
-        "img": "https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png"
-      },
-      {
-        "name": "CSS",
-        "img": "https://i2.wp.com/www.worldeatingdisordersday.org/wp-content/uploads/2016/03/css-logo.png"
+        "name": "Graph QL",
+        "img": "https://graphql.org/img/logo.svg"
       },
       {
         "name": "Angular",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png"
       },
       {
-        "name": "Git",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"
+        "name": "Php",
+        "img": "https://wisdmlabs.com/site/wp-content/uploads/2014/01/php-logo-Converted-01.png"
       },
       {
-        "name": "Tailwind css",
-        "img": "https://bourhaouta.gallerycdn.vsassets.io/extensions/bourhaouta/tailwindshades/0.0.5/1592520164095/Microsoft.VisualStudio.Services.Icons.Default"
+        "name": "Web and App Analytics",
+        "img": "https://thumbs.dreamstime.com/b/google-analytics-logo-white-background-editorial-illustrative-vector-eps-aab-210442257.jpg"
+      },
+      {
+        "name": "HTML",
+        "img": "https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png"
+      },
+      {
+        "name": "CSS",
+        "img": "https://i2.wp.com/www.worldeatingdisordersday.org/wp-content/uploads/2016/03/css-logo.png"
+      },
+
+      {
+        "name": "Git",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"
       }
     ]
   },
