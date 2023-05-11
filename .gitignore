@@ -67,3 +67,7 @@ node_modules/
 
 #build
 build/*
+build/ 
+
+*.cache
+.firebase/hosting.YnVpbGQ.cache

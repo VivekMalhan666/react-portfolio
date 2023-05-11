@@ -235,7 +235,7 @@ ul#nav li.current a {
 }
 #about p {
   line-height: 30px;
-  color: #9c9c9c;
+  color: #fff;
 }
 #about .profile-pic {
   position: relative;
@@ -519,7 +519,12 @@ ul#nav li.current a {
 .portfolio-card .portfolio-content {
   padding: 1em;
   font-weight: 400;
-  background-image: linear-gradient(hsl(0 0% 0% / 0), hsl(10 0% 0% / 1), hsl(0 0% 0% / 1) 80%, hsl(0 0% 0% / 1));
+  background-image: linear-gradient(
+    hsl(0 0% 0% / 0),
+    hsl(10 0% 0% / 1),
+    hsl(0 0% 0% / 1) 80%,
+    hsl(0 0% 0% / 1)
+  );
 }
 .portfolio-card .portfolio-content p {
   line-height: 20px;

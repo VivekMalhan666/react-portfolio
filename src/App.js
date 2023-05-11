@@ -1,18 +1,18 @@
-import React, { lazy, useEffect, useState } from 'react';
-import './App.css';
-const Header = lazy(() => import('./Components/Header'));
-const Footer = lazy(() => import('./Components/Footer'));
-const About = lazy(() => import('./Components/About'));
-const Resume = lazy(() => import('./Components/Resume'));
-const Contact = lazy(() => import('./Components/Contact'));
-const Testimonials = lazy(() => import('./Components/Testimonials'));
-const Portfolio = lazy(() => import('./Components/Portfolio'));
+import React, { lazy, useEffect, useState } from "react";
+import "./App.css";
+const Header = lazy(() => import("./Components/Header"));
+const Footer = lazy(() => import("./Components/Footer"));
+const About = lazy(() => import("./Components/About"));
+const Resume = lazy(() => import("./Components/Resume"));
+const Contact = lazy(() => import("./Components/Contact"));
+const Testimonials = lazy(() => import("./Components/Testimonials"));
+const Portfolio = lazy(() => import("./Components/Portfolio"));
 
 const App = () => {
   const [resumeData, setResumeData] = useState({});
 
   useEffect(() => {
-    fetch('/resumeData.json')
+    fetch("/resumeData.json")
       .then((res) => res.json())
       .then((data) => {
         setResumeData(data);

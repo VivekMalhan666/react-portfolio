@@ -36,9 +36,9 @@ const Resume = ({ data }) => {
         </div>
       );
     });
-    var recognitions = data.recognitions.map(function (recognition) {
+    var recognitions = data.recognitions.map(function (recognition, index) {
       return (
-        <div key={recognition.award}>
+        <div key={index}>
           <h3>{recognition.award}</h3>
           <p className="info">
             {recognition.organiser}
