@@ -4,7 +4,6 @@ const Header = lazy(() => import("./Components/Header"));
 const Footer = lazy(() => import("./Components/Footer"));
 const About = lazy(() => import("./Components/About"));
 const Resume = lazy(() => import("./Components/Resume"));
-const Contact = lazy(() => import("./Components/Contact"));
 const Testimonials = lazy(() => import("./Components/Testimonials"));
 const Portfolio = lazy(() => import("./Components/Portfolio"));
 
@@ -26,7 +25,6 @@ const App = () => {
       <Resume data={resumeData.resume} />
       <Portfolio data={resumeData.portfolio} />
       <Testimonials data={resumeData.testimonials} />
-      <Contact data={resumeData.main} />
       <Footer data={resumeData.main} />
     </div>
   );

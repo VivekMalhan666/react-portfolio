@@ -43,7 +43,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here are some of my notable skills I have experience with.",
+    "skillmessage": "Here are some of my most notable skills.",
     "education": [
       {
         "school": "GNDEC, Ludhiana",
@@ -89,17 +89,13 @@
         "award": "FTM awards",
         "organiser": "Publicis Sapient - The Children's place",
         "month": "July 2022",
-        "summary": "PS Core Values of Learning Mindset was for my growth mindset and my ability to embrace new challenges and continuously learn and improve my skills."
+        "summary": "PS Core Values of Learning Mindset was for my growth mindset and my ability to embrace new challenges and continuously learn and improve my skills. I was also bestowed by the name 'Night Crawler' in this period"
       }
     ],
     "skills": [
       {
-        "name": "Mern Stack",
+        "name": "M E R N & React Native",
         "img": "https://raw.githubusercontent.com/shahzaibkhalid/mern-app-generator/master/static/logo.png"
-      },
-      {
-        "name": "React Native",
-        "img": "https://redhouseapps.com/images/tech/logo_reactnative.png"
       },
       {
         "name": "Next Js",
@@ -112,27 +108,6 @@
       {
         "name": "Angular",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png"
-      },
-      {
-        "name": "Php",
-        "img": "https://wisdmlabs.com/site/wp-content/uploads/2014/01/php-logo-Converted-01.png"
-      },
-      {
-        "name": "Web and App Analytics",
-        "img": "https://i.pinimg.com/736x/d3/7d/b3/d37db3088fad93362b4be86a6570d062.jpg"
-      },
-      {
-        "name": "HTML",
-        "img": "https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png"
-      },
-      {
-        "name": "CSS",
-        "img": "https://i2.wp.com/www.worldeatingdisordersday.org/wp-content/uploads/2016/03/css-logo.png"
-      },
-
-      {
-        "name": "Git",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"
       }
     ]
   },
@@ -156,35 +131,12 @@
         "image": "Signal.jpg",
         "url": "https://github.com/VivekMalhan666/signal"
       },
-      {
-        "title": "Covid-19 Tracker",
-        "category": "A global tracker that maps spread built of Covid-19 with ReactJS",
-        "image": "covid-19-tracker.png",
-        "url": "https://github.com/VivekMalhan666/covid-19-tracker"
-      },
+
       {
         "title": "Uber Clone",
         "category": "This is an Uber Clone that is bootstrapped with react native and tailwind css",
         "image": "uber.png",
         "url": "https://github.com/VivekMalhan666/signal"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "This is a trailer streaming web app built with ReactJS that looks like Netflix",
-        "image": "netflix-clone.jpeg",
-        "url": "https://github.com/VivekMalhan666/Netflix-Clone"
-      },
-      {
-        "title": "Spotify Clone",
-        "category": "This is a song streaming web app built with ReactJS that looks like spotify",
-        "image": "Spotify.png",
-        "url": "https://github.com/VivekMalhan666/Spotify-Clone"
-      },
-      {
-        "title": "SpaceX Launch",
-        "category": "The SpaceX Launch Program aims to facilitate different launch programs by space x",
-        "image": "Space-x.png",
-        "url": "https://github.com/VivekMalhan666/Space-X"
       },
       {
         "title": " JavaScript Games",

@@ -7,7 +7,7 @@ const Header = ({ data }) => {
     var description = data.description;
     var networks = data.social.map(function (network) {
       return (
-        <li key={network.name}>
+        <li data-aos="fade-up" key={network.name}>
           <a href={network.url}>
             <i className={network.className}></i>
           </a>
@@ -49,11 +49,6 @@ const Header = ({ data }) => {
           <li>
             <a className="smoothscroll" href="#testimonials">
               Testimonials
-            </a>
-          </li>
-          <li>
-            <a className="smoothscroll" href="#contact">
-              Contact
             </a>
           </li>
         </ul>

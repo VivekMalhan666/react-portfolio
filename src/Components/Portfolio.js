@@ -1,6 +1,6 @@
-import React, { useEffect } from 'react';
-import Aos from 'aos';
-import 'aos/dist/aos.css';
+import React, { useEffect } from "react";
+import Aos from "aos";
+import "aos/dist/aos.css";
 
 const Portfolio = ({ data }) => {
   useEffect(() => {
@@ -9,7 +9,7 @@ const Portfolio = ({ data }) => {
 
   if (data) {
     var projects = data.projects.map(({ title, image, category, url }) => {
-      var projectImage = 'images/portfolio/' + image;
+      var projectImage = "images/portfolio/" + image;
       return (
         <section
           key={title}
@@ -17,9 +17,9 @@ const Portfolio = ({ data }) => {
           className="portfolio-card"
           style={{
             backgroundImage: `url(${projectImage})`,
-            backgroundPosition: 'center',
-            backgroundSize: 'cover',
-            backgroundRepeat: 'no-repeat',
+            backgroundPosition: "center",
+            backgroundSize: "cover",
+            backgroundRepeat: "no-repeat",
           }}
         >
           <section className="portfolio-content">
@@ -38,7 +38,7 @@ const Portfolio = ({ data }) => {
     <section id="portfolio">
       <div className="row">
         <div className="twelve columns collapsed">
-          <h1>Check Out Some of My Works.</h1>
+          <h1>Check Out Some of My Personal Projects.</h1>
           <div
             id="portfolio-wrapper"
             className="bgrid-quarters s-bgrid-thirds cf"
