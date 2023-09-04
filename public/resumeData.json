@@ -2,7 +2,7 @@
   "main": {
     "name": "Vivek Malhan",
     "description": "The Full Stack Developer, part-time RJ, Blogger, and YouTuber extraordinaire!",
-    "image": "https://media.licdn.com/dms/image/D4D03AQFiRDB-i5vyiw/profile-displayphoto-shrink_800_800/0/1676437456616?e=1689206400&v=beta&t=Dmm0ufWS6cv1C-NVdL4zD2V8z_KGO8O9ZVwTlkTMeIE",
+    "image": "https://media.licdn.com/dms/image/D4D03AQFiRDB-i5vyiw/profile-displayphoto-shrink_800_800/0/1676437456616?e=1699488000&v=beta&t=BgrkkHg0buU5cPOePM_KzNklgLpDYrsgxkgGYIiBx5s",
     "intro": "Hey there, I'm Vivek - a Full Stack Developer at Publicis Sapient, part-time RJ, Blogger, and YouTuber. I'm passionate about technology, music, and sharing knowledge with others.",
     "more": "At Publicis Sapient, I get to work on challenging projects that allow me to think creatively and come up with innovative solutions. On the side, I share my love for music as a part-time RJ at a popular local radio station, and I create tutorials and guides on my YouTube channel and my medium blog to help others improve their programming skills.",
     "contactmessage": "Get in touch with me to receive further details",
@@ -13,32 +13,37 @@
       {
         "name": "codepen",
         "url": "https://codepen.io/vivekmalhan666/collections/",
-        "className": "fa fa-codepen"
+        "className": "fa-brands fa-codepen"
+      },
+      {
+        "name": "codepen",
+        "url": "https://www.npmjs.com/~vivekmalhan",
+        "className": "fa-brands fa-npm"
       },
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/vivek-malhan-156984195/",
-        "className": "fa fa-linkedin"
+        "className": "fa-brands fa-linkedin"
       },
       {
         "name": "instagram",
         "url": "https://www.instagram.com/rjvivekmalhan/",
-        "className": "fa fa-instagram"
+        "className": "fa-brands fa-instagram"
       },
       {
         "name": "github",
         "url": "http://github.com/VivekMalhan666",
-        "className": "fa fa-github"
+        "className": "fa-brands fa-github"
       },
       {
         "name": "youtube",
         "url": "https://www.youtube.com/channel/UC9SzalLbp88s9m11mnyLxNg",
-        "className": "fa fa-youtube"
+        "className": "fa-brands fa-youtube"
       },
       {
         "name": "medium",
         "url": "https://medium.com/@amalhan43",
-        "className": "fa fa-medium"
+        "className": "fa-brands fa-medium"
       }
     ]
   },
@@ -81,6 +86,12 @@
     "recognitions": [
       {
         "award": "FTM awards",
+        "organiser": "Publicis Sapient - Albertsons Companies Inc.",
+        "month": "July 2023",
+        "summary": "PS Core Values of Learning Mindset was for my growth mindset and my ability to embrace new challenges and continuously learning and improve my skills."
+      },
+      {
+        "award": "FTM awards",
         "organiser": "Publicis Sapient - The Children's place",
         "month": "March 2023",
         "summary": "PS Core Values of Engaing with Openness was for his engaging approach to openness, which demonstrated my willingness to collaborate with team members and communicate effectively."
@@ -89,7 +100,7 @@
         "award": "FTM awards",
         "organiser": "Publicis Sapient - The Children's place",
         "month": "July 2022",
-        "summary": "PS Core Values of Learning Mindset was for my growth mindset and my ability to embrace new challenges and continuously learn and improve my skills. I was also bestowed by the name 'Night Crawler' in this period"
+        "summary": "PS Core Values of Learning Mindset was for my growth mindset and my ability to embrace new challenges and continuously learning and improve my skills. I was also bestowed by the name 'Night Crawler' in this period"
       }
     ],
     "skills": [
@@ -114,6 +125,18 @@
   "portfolio": {
     "projects": [
       {
+        "title": "react-toasties",
+        "category": "The Toast component provides a resuable, customizable toast component designed to be used for in app notifications.",
+        "image": "toasts.png",
+        "url": "https://www.npmjs.com/package/react-toasties"
+      },
+      {
+        "title": "react-comoboxes",
+        "category": "The Combobox component provides a searchable and selectable list of options, designed to be used as an input control.",
+        "image": "combobox.png",
+        "url": "https://www.npmjs.com/package/react-comboboxes"
+      },
+      {
         "title": "Airbnb Clone",
         "category": "This is an Airbnb like web application built using next.js",
         "image": "airbnb.png",
@@ -127,16 +150,16 @@
       },
       {
         "title": "Signal Clone",
-        "category": "This is a chat portal built using React Native that looks like signal",
+        "category": "This is a chat portal built using React Native for the app and firebase for apis that looks like signal",
         "image": "Signal.jpg",
         "url": "https://github.com/VivekMalhan666/signal"
       },
 
       {
         "title": "Uber Clone",
-        "category": "This is an Uber Clone that is bootstrapped with react native and tailwind css",
+        "category": "This is an Uber Clone that is bootstrapped with react native and tailwind css for app and firebase, google maps for apis",
         "image": "uber.png",
-        "url": "https://github.com/VivekMalhan666/signal"
+        "url": "https://github.com/VivekMalhan666/Uber-Clone"
       },
       {
         "title": " JavaScript Games",
@@ -156,15 +179,15 @@
     "testimonials": [
       {
         "text": "Famously known as The Night Crawler in the team, you assign him a task in evening by next morning scrum he will come up and say it's done.",
-        "user": "Vishnumoorthi Bhat   {Manager Agile Programming Management, Publicis Sapient}"
+        "user": "Vishnumoorthi Bhat {Manager Agile Programming Management, Publicis Sapient}"
       },
       {
-        "text": "Quick and keen learner, Helpful and informative.",
-        "user": "Suraj Dadral   {Senior Dev, Naberro}"
+        "text": "Vivek is an excellent team player with an all-rounded personality. He is the go-to person in our team for anyone to learn more about app/web analytics. He is also very articulate and hard-working, ensuring the client deliverables are completed on time.",
+        "user": "Jai Mahajan {Associate Software Development Engineer L1, Publicis Sapient}"
       },
       {
         "text": "Always lends a helping hand, Eager to learn and is a quick learn with diverse knowledge.",
-        "user": "Arshdeep Singh   {Full Stack Dev, Invent Consultancy Services}"
+        "user": "Arshdeep Singh {Experience Engineer L1, Publicis Sapient}"
       }
     ]
   }
