@@ -4,9 +4,9 @@
     "description": "The Full Stack Developer, part-time RJ, Blogger, and YouTuber extraordinaire!",
     "image": "https://media.licdn.com/dms/image/D4D03AQFiRDB-i5vyiw/profile-displayphoto-shrink_800_800/0/1676437456616?e=1699488000&v=beta&t=BgrkkHg0buU5cPOePM_KzNklgLpDYrsgxkgGYIiBx5s",
     "intro": "Hey there, I'm Vivek - a Full Stack Developer at Publicis Sapient, part-time RJ, Blogger, and YouTuber. I'm passionate about technology, music, and sharing knowledge with others.",
-    "more": "At Publicis Sapient, I get to work on challenging projects that allow me to think creatively and come up with innovative solutions. On the side, I share my love for music as a part-time RJ at a popular local radio station, and I create tutorials and guides on my YouTube channel and my medium blog to help others improve their programming skills.",
+    "more": "With over 3 years of hands-on experience in software development, I bring a diverse skill set encompassing technologies such as React, Node.js, AWS, and more. I've developed two npm packages and authored technical blogs, demonstrating my commitment to innovation and knowledge sharing within the field. My track record reflects my ability to thrive in various software development environments.",
     "contactmessage": "Get in touch with me to receive further details",
-    "email": "+91-9569523240",
+    "email": "+91-7888834025",
     "phone": "amalhan43@gmail.com",
     "website": "https://github.com/VivekMalhan666",
     "social": [
@@ -60,9 +60,9 @@
     "work": [
       {
         "company": "Publicis Sapient ",
-        "title": "Associate Technology L1 - Core XT",
+        "title": "Experience Engineer Level 1 - Core XT",
         "years": "October 2021 - Present",
-        "description": "Associate Technology L1 Developer in Publicis Sapient, Gurgaon Office with expertise in several key areas of web development, including React, Next, React Native, analytics, Redux, and animations. The team has nicknamed me `Night Crawler` due to my dedication to working long hours and going above and beyond to ensure the success of the projects."
+        "description": "Experience Engineer Level 1 in Publicis Sapient, Gurgaon Office with expertise in several key areas of web development, including React, Next, React Native, analytics, Redux, and animations. Developing and collaborating various projects including ECommerce retail projects, Design Libraries, Accelerators for projects and making valuable contributions in Research And Development Department of the company"
       },
       {
         "company": "Ryazio Technologies LLP",
@@ -178,16 +178,16 @@
   "testimonials": {
     "testimonials": [
       {
+        "text": "His significant influence as an independent contributor has been instrumental in driving our project's success. We've all learned from his unwavering commitment and proactive spirit, evident in his contributions to inner-source and other initiatives. Vivek's dedication, technical prowess, and continuous thirst for knowledge truly make him an asset to the organization.",
+        "user": "Vasu Nagpal {Manager Experience Engineering, Publicis Sapient}"
+      },
+      {
         "text": "Famously known as The Night Crawler in the team, you assign him a task in evening by next morning scrum he will come up and say it's done.",
-        "user": "Vishnumoorthi Bhat {Manager Agile Programming Management, Publicis Sapient}"
+        "user": "Vishnumoorthi Bhat {Ex. Manager Agile Programming Management, Publicis Sapient}"
       },
       {
         "text": "Vivek is an excellent team player with an all-rounded personality. He is the go-to person in our team for anyone to learn more about app/web analytics. He is also very articulate and hard-working, ensuring the client deliverables are completed on time.",
-        "user": "Jai Mahajan {Associate Software Development Engineer L1, Publicis Sapient}"
-      },
-      {
-        "text": "Always lends a helping hand, Eager to learn and is a quick learn with diverse knowledge.",
-        "user": "Arshdeep Singh {Experience Engineer L1, Publicis Sapient}"
+        "user": "Jai Mahajan {Associate Software Development Engineer L2, Publicis Sapient}"
       }
     ]
   }
