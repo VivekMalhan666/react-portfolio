@@ -2,7 +2,7 @@
   "main": {
     "name": "Vivek Malhan",
     "description": "The Full Stack Developer, part-time RJ, Blogger, and YouTuber extraordinaire!",
-    "image": "https://media.licdn.com/dms/image/D4D03AQFiRDB-i5vyiw/profile-displayphoto-shrink_800_800/0/1676437456616?e=1699488000&v=beta&t=BgrkkHg0buU5cPOePM_KzNklgLpDYrsgxkgGYIiBx5s",
+    "image": "https://media.licdn.com/dms/image/v2/D4D03AQFiRDB-i5vyiw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1676437458886?e=1730332800&v=beta&t=MhuKLklBl22YGqKqpxAIVdypUW5V3GJYWECY7ohx8Dk",
     "intro": "Hey there, I'm Vivek - a Full Stack Developer at Publicis Sapient, part-time RJ, Blogger, and YouTuber. I'm passionate about technology, music, and sharing knowledge with others.",
     "more": "With over 3 years of hands-on experience in software development, I bring a diverse skill set encompassing technologies such as React, Node.js, AWS, and more. I've developed two npm packages and authored technical blogs, demonstrating my commitment to innovation and knowledge sharing within the field. My track record reflects my ability to thrive in various software development environments.",
     "contactmessage": "Get in touch with me to receive further details",
@@ -60,9 +60,9 @@
     "work": [
       {
         "company": "Publicis Sapient ",
-        "title": "Experience Engineer Level 1 - Core XT",
+        "title": "Experience Engineer Level 2 - Core XE",
         "years": "October 2021 - Present",
-        "description": "Experience Engineer Level 1 in Publicis Sapient, Gurgaon Office with expertise in several key areas of web development, including React, Next, React Native, analytics, Redux, and animations. Developing and collaborating various projects including ECommerce retail projects, Design Libraries, Accelerators for projects and making valuable contributions in Research And Development Department of the company"
+        "description": "Experience Engineer Level 2 in Publicis Sapient, Gurgaon Office with expertise in several key areas of web development, including React, Next, React Native, analytics, Redux, and animations. Developing and collaborating various projects including ECommerce retail projects, Design Libraries, Accelerators for projects and making valuable contributions in Research And Development Department of the company"
       },
       {
         "company": "Ryazio Technologies LLP",

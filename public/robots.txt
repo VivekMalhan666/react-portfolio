@@ -1,2 +1,3 @@
 User-Agent: *
+Sitemap: https://vivekmalhan-cb919.web.app/sitemap.xml
 Disallow:
